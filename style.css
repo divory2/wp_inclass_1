@@ -10,8 +10,11 @@ a {
 }
 
 body {
-   font-style: Arial;
-   background: linear-gradient(lightslategray);
+  height: 100%;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white, lightgray);
 }
+
+
 
 /* TODO: Add styles here */
