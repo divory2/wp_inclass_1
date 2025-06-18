@@ -9,4 +9,17 @@ a {
    font-size: 12px;
 }
 
+body {
+  height: 100%;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white, lightgray);s
+}
+
+p {
+   color: white;
+   width: 350px;
+   size: 16px;
+   padding: 10px;
+}
+
 /* TODO: Add styles here */
