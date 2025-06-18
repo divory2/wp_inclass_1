@@ -16,5 +16,14 @@ body {
 }
 
 
+h1 {
+   color: darkblue;
+   padding: 8px;
+   box-sizing: border-box;
+   text-shadow:5px 5px 6px gray;
+   
+   
+}
+
 
 /* TODO: Add styles here */
